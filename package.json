@@ -1,0 +1,15 @@
+{
+  "name": "@wumvi/wm.css.text-dotted",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Kozlenko Vitaliy",
+  "license": "proprietary",
+  "scripts": {
+    "new-version": "npm version patch && git push -u origin master && npm publish"
+  },
+  "keywords": [],
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
